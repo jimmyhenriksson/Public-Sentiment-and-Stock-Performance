@@ -1,7 +1,7 @@
 # A script that collects and stores tweets for all
 # Dow Jones stocks (and more) by using Rtweet.
-# The script is automatically generated from Java
-# and takes the time and amount constraints into account.
+# The script was generated from Java.
+# Takes the time and amount constraints into account.
 # First you need to create a developer account on Twitter etc:
 # Instructions: http://www.storybench.org/get-twitter-data-rtweet-r/
 #           or: https://rtweet.info/
